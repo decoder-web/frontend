@@ -1,0 +1,3 @@
+[submodule "ui-book"]
+	path = ui-book
+	url = git@github.com:decoder-web/ui-book.git
